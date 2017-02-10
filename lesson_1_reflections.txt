@@ -1,0 +1,11 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+DIFF effectively highlighted the added/removed lines for comparison, easily allowing me to hone in on the changes and identify the bug.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+By allowing you to see all incremental changes to a file that were made over time.  If a bug is introduced, you can easily revert back to a prior version if necessary.  This would allow you to quickly roll that pre-change version into a production environment so you could focus on fixing the bug in a non-depoloyed version.
+
+How often should you commit changes?
+
+A good rule of thumb is to make one commit per logical change. For example, if you fixed a typo, then fixed a bug in a separate part of the file, you should use one commit for each change since they are logically separate. If you do this, each commit will have one purpose that can be easily understood. Git allows you to write a short message explaining what was changed in each commit, and that message will be more useful if each commit has a single logical change.
