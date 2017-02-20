@@ -1,12 +1,12 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
-If you need to share your work with others or work on your project from more than one location/computer.
+- If you need to share your work with others or work on your project from more than one location/computer.
 
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
+- Because you might not want or be ready for changes made by others in your specific branch.  If you are using a branch to build a new feature in isoliation, you probably don't care about other changes during development.  
 
-    Fill in your answer here
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
