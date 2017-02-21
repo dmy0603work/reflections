@@ -25,5 +25,4 @@ and what would be harder?
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
-
-    Fill in your answer here
+Whenever you want/need to work on something in isolation without affecting the main branch.  This would be common for building new features or perhaps fixing bugs and may be subjective based on the team's preferred workflow.
