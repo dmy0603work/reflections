@@ -20,8 +20,8 @@ stored locally?
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
+- you would likely have to share files with each additional collaborator and have much more extensive communication over changes that are made by each.  You would have to use another DIFF tool and someone would need to manage a central repository of files.
 
-    Fill in your answer here
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
